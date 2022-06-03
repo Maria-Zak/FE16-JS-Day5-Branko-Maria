@@ -1,0 +1,31 @@
+let books = `[{
+"title": "Witcher. The Last Wish",
+"author": "Andrzej Sapkowski",
+"read": true,
+"img": "https://anylang.net/sites/default/files/styles/book_image/public/image_0.jpg?itok=x92JGRNW"
+},{
+"title": "Witcher. Sword of Destiny.",
+"author": "Andrzej Sapkowski",
+"read": true,
+"img": "https://m.media-amazon.com/images/I/51ei8hZYUmL.jpg"
+},
+{
+"title": "Witcher. Blood of Elves",
+"author": "Andrzej Sapkowski",
+"read": false,
+"img": "https://upload.wikimedia.org/wikipedia/en/6/61/Blood_of_Elves_UK.jpg"
+},{
+"title": "Witcher. Time of Contempt",
+"author": "Andrzej Sapkowski",
+"read": true,
+"img": "https://assets.thalia.media/img/artikel/c590a9192cdcdb3863a8026b41da2781ece20c86-00-00.jpeg"
+},{
+"title": "Witcher. Baptism of Fire",
+"author": "Andrzej Sapkowski",
+"read": false,
+"img": "https://images-na.ssl-images-amazon.com/images/I/51dQ3lYwRzL._SX327_BO1,204,203,200_.jpg"
+},{
+"title": "Witcher. The Tower of the Swallow",
+"author": "Andrzej Sapkowski",
+"read": false,
+"img": "https://target.scene7.com/is/image/Target/GUEST_7b902c96-8e9f-4bfc-8560-42449cf58157?wid=488&hei=488&fmt=pjpeg"}]`

@@ -1,0 +1,75 @@
+let employees = `[{
+    "userId": "29893944817",
+    "firstName": "Patrik",
+    "lastName": "Jonathan",
+    "emailAddress": "patrik.k.jonathan@gmail.com",
+    "jobTitleName": "Developer",
+    "salary": "1000EUR"
+}, {
+
+    "userId": "29823964877",
+    "firstName": "Tom",
+    "lastName": "Irani",
+    "emailAddress": "tomrirani@gmail.com",
+    "jobTitleName": "Analyst",
+    "salary": "1000EUR"
+}, {
+
+    "userId": "25833742117",
+    "firstName": "Tom",
+    "lastName": "Hanks",
+    "emailAddress": "tomhanks@gmail.com",
+    "jobTitleName": "Program Directory",
+    "salary": "4000EUR"
+}, {
+    "userId": "75848492404",
+    "firstName": "Maria",
+    "lastName": "A",
+    "emailAddress": "maria.a@gmail.com",
+    "jobTitleName": "Manager",
+    "salary": "1300EUR"
+}, {
+    "userId": "5488596594054",
+    "firstName": "Branko",
+    "lastName": "D",
+    "emailAddress": "pbranko.d@gmail.com",
+    "jobTitleName": "Front-End",
+    "salary": "3000EUR"
+}, {
+    "userId": "65677567756",
+    "firstName": "Serri",
+    "lastName": "G",
+    "emailAddress": "serri.g@gmail.com",
+    "jobTitleName": "Teacher",
+    "salary": "5000EUR"
+}, {
+    "userId": "34324324234",
+    "firstName": "Jan",
+    "lastName": "F",
+    "emailAddress": "jan.f@gmail.com",
+    "jobTitleName": "Freelancer",
+    "salary": "2000EUR"
+}, {
+    "userId": "29893944817",
+    "firstName": "Patrik",
+    "lastName": "Jonathan",
+    "emailAddress": "patrik.k.jonathan@gmail.com",
+    "jobTitleName": "Developer",
+    "salary": "1000EUR"
+}, {
+
+    "userId": "29823964877",
+    "firstName": "Tom",
+    "lastName": "Irani",
+    "emailAddress": "tomrirani@gmail.com",
+    "jobTitleName": "Analyst",
+    "salary": "1000EUR"
+}, {
+
+    "userId": "25833742117",
+    "firstName": "Tom",
+    "lastName": "Hanks",
+    "emailAddress": "tomhanks@gmail.com",
+    "jobTitleName": "Program Directory",
+    "salary": "4000EUR"
+}]`
